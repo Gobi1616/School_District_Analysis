@@ -1,6 +1,12 @@
 # School_District_Analysis
 
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Backround
+
+This repository provides a python pandas method for analysing school district data in the education field. Both datasets were downloaded, combined, and the aggregate data was displayed in python pandas dataframes for these analyses. The project is run in Jupyter notebook, and the following connection was generated to highlight and communicate the research report: Viewer for Jupyter Notebooks. This initiative will assist the school board and mayor in making informed decisions about school budgets and goals in the future.
+
+## Overview of the school district analysis:
+
+According to the school summary findings, 7 of the 15 schools are located at the district level, while the remaining 8 are located at the charter level. There are 15 schools in the dataset, with a total of 39,170 students. The average reading score for all students is 81.87, which is higher than the average math score of 78.98. When we consider that reading (85.80%) has a higher passing rate than math (74.98%), the overall passing rate is 65.17 percent. According to these results, students do better in reading than in math.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
