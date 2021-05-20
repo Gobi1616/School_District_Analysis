@@ -1,17 +1,14 @@
 # School_District_Analysis
-Working with Jupyter Notebook and Pandas
-School_District_Analysis
-Module 4
 
-Challenge
+##Challenge
 Analysis available in the Jupyter Notebook - PyCitySchools_Challenge.ipynb
 
-Background
+##Background
 The grades of the ninth graders at Thomas High School have been changed. While administrators do not know the full extent of this academic dishonesty, they want to uphold the standards of state testing and have turned to you for help.
 After assessing the situation with the school superintendent and Maria, you decide the best approach is to:
 
-Replace the ninth-grade math and reading scores from Thomas High School.
-Keep all other data associated with the ninth-grade students and Thomas High School intact.
+-Replace the ninth-grade math and reading scores from Thomas High School.
+-Keep all other data associated with the ninth-grade students and Thomas High School intact.
 
 
 Objectives
