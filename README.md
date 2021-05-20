@@ -11,7 +11,7 @@ After assessing the situation with the school superintendent and Maria, you deci
 - Keep all other data associated with the ninth-grade students and Thomas High School intact.
 
 
-Objectives
+## Objectives
 The goals of this challenge are for you to:
 
 Filter DataFrames using logical operators.
@@ -19,35 +19,26 @@ Replace the incorrect values with NaN.
 Explain how your PyCitySchools analysis changes after you handle the incorrect data.
 
 
-Instructions
+## Instructions
 
-Create a duplicate of PyCitySchools.ipynb and rename it PyCitySchools_Challenge.ipynb.
-Correct the students' names so there are no professional prefixes or suffixes.
-Replace the reading and math scores for ninth graders at Thomas High School with NaN.
+1. Create a duplicate of PyCitySchools.ipynb and rename it PyCitySchools_Challenge.ipynb.
+2. Correct the students' names so there are no professional prefixes or suffixes.
+3. Replace the reading and math scores for ninth graders at Thomas High School with NaN.
 
-Use loc on the student_data_df DataFrame to select the columns by condition.
-Set the column you want equal to "NaN" by using np.nan for the reading and math scores separately.
-
-To use np.nan, you’ll need to import Numpy with the following: import numpy as np.
-
-
-After you replace the reading and math scores for ninth graders at Thomas High School with NaN, your DataFrame should look like the following (See Challenge original for image).
-
-
-Merge the clean student data with the school dataset. The column order for all the DataFrames and number formatting should be the same as what was covered in this module.
-After replacing the reading and math scores, complete the following steps and answer the questions for each step.
-
-Recreate the district and school summary DataFrames.
-
-
-How is the district summary affected?
-
-BEFORE DATA CLEANUP
-Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing
-79.0, 81.9, 75, 86, 65
-AFTER DATA CLEANUP
-Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing
-78.9, 81.9, 74, 85, 64
+  - Use loc on the student_data_df DataFrame to select the columns by condition.
+  - Set the column you want equal to "NaN" by using np.nan for the reading and math scores separately.
+    - To use np.nan, you’ll need to import Numpy with the following: import numpy as np.
+  - After you replace the reading and math scores for ninth graders at Thomas High School with NaN, your DataFrame should look like the following (See Challenge original for image).
+4. Merge the clean student data with the school dataset. The column order for all the DataFrames and number formatting should be the same as what was covered in this module.
+5. After replacing the reading and math scores, complete the following steps and answer the questions for each step.
+   -  Recreate the district and school summary DataFrames.
+      -  How is the district summary affected?
+        -  BEFORE DATA CLEANUP
+         -- Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing
+         -- 79.0, 81.9, 75, 86, 65
+         -- AFTER DATA CLEANUP
+         -- Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, % Overall Passing
+         -- 78.9, 81.9, 74, 85, 64
 
 OBSERVATION: Slight downward change in district averages
 
