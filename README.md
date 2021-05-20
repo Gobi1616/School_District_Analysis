@@ -11,8 +11,37 @@ According to the school summary findings, 7 of the 15 schools are located at the
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
   1. How is the district summary affected?
+  
+      - Total Schools
+      - Total Students
+      - Total Budget
+      - Average Math Score
+      - Average Reading Score
+      - % Passing Math (The percentage of students that passed math.)
+      - % Passing Reading (The percentage of students that passed reading.)
+      - % Overall Passing (The percentage of students that passed math and reading.)
+    The district summery table looks as follows:
+
+![image](https://user-images.githubusercontent.com/82549869/119054073-062fe580-b995-11eb-8480-9e6adfc0fbcf.png)
+  
   2. How is the school summary affected?
+    - An overview table that summarizes key metrics about each school was created in the following metrics
+      - School Name
+      - School Type
+      - Total Students
+      - Total School Budget
+      - Per Student Budget
+      - Average Math Score
+      - Average Reading Score
+      - % Passing Math (The percentage of students that passed math.)
+      - % Passing Reading (The percentage of students that passed reading.)
+      - % Overall Passing (The percentage of students that passed math and reading.)
+ 
+ ![image](https://user-images.githubusercontent.com/82549869/119054297-658df580-b995-11eb-8815-a821729313a7.png)
+  
   3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+  
+  
   4. How does replacing the ninth-grade scores affect the following:
       - Math and reading scores by grade
       - Scores by school spending
