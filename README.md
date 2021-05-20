@@ -19,3 +19,5 @@ According to the school summary findings, 7 of the 15 schools are located at the
       - Scores by school size
       - Scores by school type
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+According to the results, average math scores, average reading scores, passing math, passing reading, and overall passing all decrease as the number of students in a classroom increases.
