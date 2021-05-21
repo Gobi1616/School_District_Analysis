@@ -20,7 +20,8 @@ According to the school summary findings, 7 of the 15 schools are located at the
       - % Passing Math (The percentage of students that passed math.)
       - % Passing Reading (The percentage of students that passed reading.)
       - % Overall Passing (The percentage of students that passed math and reading.)
-    The district summery table looks as follows:
+    
+   The district summery table looks as follows:
 
 ![image](https://user-images.githubusercontent.com/82549869/119054073-062fe580-b995-11eb-8480-9e6adfc0fbcf.png)
   
