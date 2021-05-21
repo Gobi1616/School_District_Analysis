@@ -10,7 +10,7 @@ According to the school summary findings, 7 of the 15 schools are located at the
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-### District summary:
+### - District summary:
   
       - Total Schools
       - Total Students
@@ -25,7 +25,7 @@ According to the school summary findings, 7 of the 15 schools are located at the
 
 ![image](https://user-images.githubusercontent.com/82549869/119054073-062fe580-b995-11eb-8480-9e6adfc0fbcf.png)
   
-### School summary:
+### - School summary:
       
       - An overview table that summarizes key metrics about each school was created in the following metrics
       - School Name
@@ -41,22 +41,24 @@ According to the school summary findings, 7 of the 15 schools are located at the
  
  ![image](https://user-images.githubusercontent.com/82549869/119054297-658df580-b995-11eb-8815-a821729313a7.png)
   
-### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### - Replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools.
+
+
+### - Rreplacing the ninth-grade scores affect the following:  
   
-  
-### Math Scores by Grade
+  ### Math Scores by Grade
    - A table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school was created.
 
-A table of Math Scores by Grade looks as follows:
+  A table of Math Scores by Grade looks as follows:
 
 
-### Reading Scores by Grade
+  ### Reading Scores by Grade
   - A table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school was created.
 
-A table of Reading Scores by Grade looks as follows:
+  A table of Reading Scores by Grade looks as follows:
 
 
-### Scores by School Spending
+  ### Scores by School Spending
   - A table that breaks down school performances based on average Spending Ranges (Per Student), and 4 reasonable bins to group school spending was created.The table includes each of the following:
     - Average Math Score
     - Average Reading Score
@@ -64,18 +66,18 @@ A table of Reading Scores by Grade looks as follows:
     - % Passing Reading (The percentage of students that passed reading.)
     - % Overall Passing (The percentage of students that passed math and reading.)
 
-A table of Scores by School Spending looks as follows:
+  A table of Scores by School Spending looks as follows:
 
 
-### Scores by school size
+  ### Scores by school size
   - The following table created by grouping schools based on a reasonable approximation of school size (Small, Medium, Large).
 
-A table of Scores by School Size looks as follows:
+  A table of Scores by School Size looks as follows:
 
-### Scores by school type
+  ### Scores by school type
   - Finally a solution that group schools based on school type (Charter vs. District) was created.
 
-A table of Scores by School Type looks as follows:
+  A table of Scores by School Type looks as follows:
 
 ## Summary:
 
