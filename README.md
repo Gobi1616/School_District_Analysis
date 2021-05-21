@@ -10,7 +10,7 @@ According to the school summary findings, 7 of the 15 schools are located at the
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-### - District summary:
+### District summary:
   
       - Total Schools
       - Total Students
@@ -25,7 +25,7 @@ According to the school summary findings, 7 of the 15 schools are located at the
 
 ![image](https://user-images.githubusercontent.com/82549869/119054073-062fe580-b995-11eb-8480-9e6adfc0fbcf.png)
   
-### - School summary:
+### School summary:
       
       - An overview table that summarizes key metrics about each school was created in the following metrics
       - School Name
@@ -41,19 +41,19 @@ According to the school summary findings, 7 of the 15 schools are located at the
  
  ![image](https://user-images.githubusercontent.com/82549869/119054297-658df580-b995-11eb-8815-a821729313a7.png)
   
-### - Replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools.
+### Replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools.
 
 
-### - Rreplacing the ninth-grade scores affect the following:  
+### Rreplacing the ninth-grade scores affect the following:  
   
-  ### Math Scores by Grade
-   - A table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school was created.
+  - Math Scores by Grade
+      - A table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school was created.
 
   A table of Math Scores by Grade looks as follows:
 
 
-  ### Reading Scores by Grade
-  - A table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school was created.
+  -  Reading Scores by Grade
+      - A table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school was created.
 
   A table of Reading Scores by Grade looks as follows:
 
