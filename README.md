@@ -11,7 +11,9 @@ According to the school summary findings, 7 of the 15 schools are located at the
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ### District summary:
-  
+
+When comparing average math scores and passing percentages across the district's 15 high schools, the average math score decreased. 1. The average reading score remained same, while the percentage passing math, reading, and overall passed percent all decreased by 1%.
+
       - Total Schools
       - Total Students
       - Total Budget
@@ -81,4 +83,4 @@ According to the school summary findings, 7 of the 15 schools are located at the
 
 ## Summary:
 
-According to the results, average math scores, average reading scores, passing math, passing reading, and overall passing all decrease as the number of students in a classroom increases.
+According to the results, average math scores, average reading scores, passing math, passing reading, and overall passing all decrease as the number of students in a classroom increases.For 461 student records, both math and reading scores were substituted with "NaN".   Even though it may appear to be a large amount, the score substitutions had little impact on data summaries overall.
