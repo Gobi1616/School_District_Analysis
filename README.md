@@ -69,10 +69,7 @@ Additional advantage of this data substitution would be that the math and readin
       ![image](https://user-images.githubusercontent.com/82549869/119224180-34afdc80-bacb-11eb-8777-2d60a70080ea.png)
 
   -   Scores by School Spending:
-      
-     
-      
-      A table that breaks down school performances based on average Spending Ranges (Per Student), and 4 reasonable bins to group school spending was created.The table includes each of the following:
+A table that breaks down school performances based on average Spending Ranges (Per Student), and 4 reasonable bins to group school spending was created.The table includes each of the following:
           - Average Math Score
           - Average Reading Score
           - % Passing Math (The percentage of students that passed math.)
