@@ -103,3 +103,4 @@ Additional advantage of this data substitution would be that the math and readin
 ## Summary:
 
 According to the results, average math scores, average reading scores, passing math, passing reading, and overall passing all decrease as the number of students in a classroom increases.For 461 student records, both math and reading scores were substituted with "NaN".   Even though it may appear to be a large amount, the score substitutions had little impact on data summaries overall.
+
