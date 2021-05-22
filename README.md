@@ -79,7 +79,7 @@ Additional advantage of this data substitution would be that the math and readin
 
         A table of Scores by School Spending looks as follows:
 
-      ![image](https://user-images.githubusercontent.com/82549869/119229096-43ef5400-bae4-11eb-9449-f4b53658ca7e.png)
+   ![image](https://user-images.githubusercontent.com/82549869/119229096-43ef5400-bae4-11eb-9449-f4b53658ca7e.png)
 
   -   Scores by school size:
       - The following table created by grouping schools based on a reasonable approximation of school size (Small, Medium, Large).
@@ -88,7 +88,7 @@ Additional advantage of this data substitution would be that the math and readin
       
         A table of Scores by School Size looks as follows:
         
-        ![image](https://user-images.githubusercontent.com/82549869/119229120-6a14f400-bae4-11eb-89aa-c92c39d0e566.png)
+   ![image](https://user-images.githubusercontent.com/82549869/119229120-6a14f400-bae4-11eb-89aa-c92c39d0e566.png)
 
   - Scores by school type:
       - Finally a solution that group schools based on school type (Charter vs. District) was created.
@@ -97,7 +97,7 @@ Additional advantage of this data substitution would be that the math and readin
     
        A table of Scores by School Type looks as follows:
         
-       ![image](https://user-images.githubusercontent.com/82549869/119229135-78631000-bae4-11eb-810f-c298f8bf8b70.png)
+   ![image](https://user-images.githubusercontent.com/82549869/119229135-78631000-bae4-11eb-810f-c298f8bf8b70.png)
 
 
 ## Summary:
