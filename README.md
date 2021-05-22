@@ -10,8 +10,12 @@ According to the school summary findings, 7 of the 15 schools are located at the
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-  1. How is the district summary affected?
-  
+### District summary:
+
+When comparing average math scores and passing percentages across the district's 15 high schools, the average math score decreased. 1. The average reading score remained same, while the percentage passing math, reading, and overall passed percent all decreased by 1%.
+
+An overview table that summarizes key metrics about district was created in the following metrics
+
       - Total Schools
       - Total Students
       - Total Budget
@@ -20,12 +24,15 @@ According to the school summary findings, 7 of the 15 schools are located at the
       - % Passing Math (The percentage of students that passed math.)
       - % Passing Reading (The percentage of students that passed reading.)
       - % Overall Passing (The percentage of students that passed math and reading.)
-    The district summery table looks as follows:
+    
+   The district summery table looks as follows:
 
 ![image](https://user-images.githubusercontent.com/82549869/119054073-062fe580-b995-11eb-8480-9e6adfc0fbcf.png)
   
-  2. How is the school summary affected?
-    - An overview table that summarizes key metrics about each school was created in the following metrics
+### School summary:
+      
+An overview table that summarizes key metrics about each school was created in the following metrics
+
       - School Name
       - School Type
       - Total Students
@@ -39,14 +46,44 @@ According to the school summary findings, 7 of the 15 schools are located at the
  
  ![image](https://user-images.githubusercontent.com/82549869/119054297-658df580-b995-11eb-8815-a821729313a7.png)
   
-  3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  
-  
-  4. How does replacing the ninth-grade scores affect the following:
-      - Math and reading scores by grade
-      - Scores by school spending
-      - Scores by school size
-      - Scores by school type
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+### Replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools:
 
-According to the results, average math scores, average reading scores, passing math, passing reading, and overall passing all decrease as the number of students in a classroom increases.
+
+### Rreplacing the ninth-grade scores affect the following:  
+  
+  -   Math Scores by Grade:
+      - A table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school was created.
+
+        A table of Math Scores by Grade looks as follows:
+
+
+  -   Reading Scores by Grade:
+      - A table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school was created.
+
+        A table of Reading Scores by Grade looks as follows:
+
+
+  -   Scores by School Spending:
+      - A table that breaks down school performances based on average Spending Ranges (Per Student), and 4 reasonable bins to group school spending was created.The       table includes each of the following:
+          - Average Math Score
+          - Average Reading Score
+          - % Passing Math (The percentage of students that passed math.)
+          - % Passing Reading (The percentage of students that passed reading.)
+          - % Overall Passing (The percentage of students that passed math and reading.)
+
+        A table of Scores by School Spending looks as follows:
+
+
+  -   Scores by school size:
+      - The following table created by grouping schools based on a reasonable approximation of school size (Small, Medium, Large).
+
+        A table of Scores by School Size looks as follows:
+
+  - Scores by school type:
+      - Finally a solution that group schools based on school type (Charter vs. District) was created.
+
+        A table of Scores by School Type looks as follows:
+
+## Summary:
+
+According to the results, average math scores, average reading scores, passing math, passing reading, and overall passing all decrease as the number of students in a classroom increases.For 461 student records, both math and reading scores were substituted with "NaN".   Even though it may appear to be a large amount, the score substitutions had little impact on data summaries overall.
