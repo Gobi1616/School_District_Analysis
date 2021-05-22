@@ -6,7 +6,7 @@ This repository provides a python pandas method for analysing school district da
 
 ## Overview of the school district analysis:
 
-According to the school summary findings, 7 of the 15 schools are located at the district level, while the remaining 8 are located at the charter level. There are 15 schools in the dataset, with a total of 39,170 students. The average reading score for all students is 81.87, which is higher than the average math score of 78.98. When we consider that reading (85.80%) has a higher passing rate than math (74.98%), the overall passing rate is 65.17 percent. According to these results, students do better in reading than in math.
+According to the school summary findings, 7 of the 15 schools are located at the district level, while the remaining 8 are located at the charter level. There are 15 schools in the dataset, with a total of 39,170 students. The average reading score for all students is 81.9, which is higher than the average math score of 78.9. When we consider that reading (84.7%) has a higher passing rate than math (73.9%), the overall passing rate is 64.1%. According to these results, students do better in reading than in math.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
@@ -56,12 +56,14 @@ An overview table that summarizes key metrics about each school was created in t
 
         A table of Math Scores by Grade looks as follows:
 
+![image](https://user-images.githubusercontent.com/82549869/119224120-f5818b80-baca-11eb-9c02-0e91a400366b.png)
 
   -   Reading Scores by Grade:
       - A table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school was created.
 
         A table of Reading Scores by Grade looks as follows:
-
+        
+![image](https://user-images.githubusercontent.com/82549869/119224180-34afdc80-bacb-11eb-8777-2d60a70080ea.png)
 
   -   Scores by School Spending:
       - A table that breaks down school performances based on average Spending Ranges (Per Student), and 4 reasonable bins to group school spending was created.The       table includes each of the following:
