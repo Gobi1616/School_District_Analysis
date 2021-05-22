@@ -70,9 +70,9 @@ Additional advantage of this data substitution would be that the math and readin
 
   -   Scores by School Spending:
       
-      When analysing the spending ranges for both average math and average reading scores, this data adjustment had no effect. Therefore, the spending ranges for passing percentages were affected by this data adjustment. According to the breakdown above, in the $630-644 spending range, there was a 6% decline in percent passing math, a 7% fall in percent passing reading, and a 6% loss in percent overall passing.
+     
       
-      A table that breaks down school performances based on average Spending Ranges (Per Student), and 4 reasonable bins to group school spending was created.The       table includes each of the following:
+      A table that breaks down school performances based on average Spending Ranges (Per Student), and 4 reasonable bins to group school spending was created.The table includes each of the following:
           - Average Math Score
           - Average Reading Score
           - % Passing Math (The percentage of students that passed math.)
