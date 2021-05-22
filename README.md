@@ -70,7 +70,7 @@ Additional advantage of this data substitution would be that the math and readin
 
   -   Scores by School Spending:
 
-      A table that breaks down school performances based on average Spending Ranges (Per Student), and 4 reasonable bins to group school spending was created.The table includes each of the following:
+   A table that breaks down school performances based on average Spending Ranges (Per Student), and 4 reasonable bins to group school spending was created.The table includes each of the following:
           - Average Math Score
           - Average Reading Score
           - % Passing Math (The percentage of students that passed math.)
@@ -84,6 +84,8 @@ Additional advantage of this data substitution would be that the math and readin
   -   Scores by school size:
       - The following table created by grouping schools based on a reasonable approximation of school size (Small, Medium, Large).
 
+   When reviewing the School Size summary, removing the ninth grade scores did not affect the average math and reading scores, but it did affect the passing percentages for medium-sized schools (1,000-2,000). In this category, % passing math, % passing reading, and % overall passing dropped 6% each. Before the data change, the School Size summary showed that medium-sized school had a high performance (91% overall passing) compared to small (90% overall passing) and large schools (58% overall passing). Given the data change, medium size school are the second in performance (85% overall passing).
+      
         A table of Scores by School Size looks as follows:
         
         ![image](https://user-images.githubusercontent.com/82549869/119229120-6a14f400-bae4-11eb-89aa-c92c39d0e566.png)
@@ -91,11 +93,11 @@ Additional advantage of this data substitution would be that the math and readin
   - Scores by school type:
       - Finally a solution that group schools based on school type (Charter vs. District) was created.
  
-    In reviewing the last summary on School Types, this data change also affected the passing percentages that compared charter and district schools. Fortunately, it did not affect the average scores for these two school types. Removing the scores resulted in a reduction in charter school's passing percentages. Before the data change, charter schools had very high passing percentages: 94% passing math, 97% passing reading, 90% overall passing. After the data change, charter schools now have a 90% passing math, 93% passing reading, 87% overall passing. On the plus side, these rates are still far superior when compared to district schools.  
+   In reviewing the last summary on School Types, this data change also affected the passing percentages that compared charter and district schools. Fortunately, it did not affect the average scores for these two school types. Removing the scores resulted in a reduction in charter school's passing percentages. Before the data change, charter schools had very high passing percentages: 94% passing math, 97% passing reading, 90% overall passing. After the data change, charter schools now have a 90% passing math, 93% passing reading, 87% overall passing. On the plus side, these rates are still far superior when compared to district schools.  
     
-        A table of Scores by School Type looks as follows:
+       A table of Scores by School Type looks as follows:
         
-        ![image](https://user-images.githubusercontent.com/82549869/119229135-78631000-bae4-11eb-810f-c298f8bf8b70.png)
+       ![image](https://user-images.githubusercontent.com/82549869/119229135-78631000-bae4-11eb-810f-c298f8bf8b70.png)
 
 
 ## Summary:
